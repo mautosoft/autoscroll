@@ -30,3 +30,4 @@ See [how to use the Auto Scroll software](https://maxautoclicker.blogspot.com/p/
 ## Repositories
 
 - SourceForge: https://sourceforge.net/projects/auto-scroll/
+- Linux Auto Clicker: https://linuxautoclicker.carrd.co/
