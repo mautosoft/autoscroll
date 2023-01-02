@@ -31,3 +31,4 @@ See [how to use the Auto Scroll software](https://maxautoclicker.blogspot.com/p/
 
 - SourceForge: https://sourceforge.net/projects/auto-scroll/
 - Linux Auto Clicker: https://linuxautoclicker.carrd.co/
+- Auto Clicker installation on Ubuntu : https://dev.to/flaxalex57/auto-clicker-ubuntu-1mkn
